@@ -10,6 +10,7 @@ namespace HelloMyWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Type something here, then press enter to exit...");
             Console.ReadLine();
         }
     }
